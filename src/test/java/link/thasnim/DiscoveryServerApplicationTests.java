@@ -1,4 +1,4 @@
-package io.schultz.dustin;
+package link.thasnim;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
